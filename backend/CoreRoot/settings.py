@@ -185,3 +185,4 @@ SIMPLE_JWT = {
 
 MEDIA_ROOT = os.path.join(BASE_DIR, "resumes/")
 MEDIA_URL = "/media/"
+SESSION_COOKIE_SECURE = True
